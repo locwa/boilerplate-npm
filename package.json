@@ -19,5 +19,6 @@
   "version": "1.0.0",
   "author": "Louis Policarpio",
   "license": "ISC",
-  "description": "A project that does something awesome"
+  "description": "A project that does something awesome",
+  "keywords": [ "hello", "freecodecamp" ]  
 }
