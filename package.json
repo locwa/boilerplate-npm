@@ -28,6 +28,7 @@
   "version": "1.0.0",
   "dependencies": {
     "express": "4.14.0",
+    "comment": "Tilde is for patch update (1.2.x), while caret is for both patch and minor updates (1.x.x)",
     "@freecodecamp/example": "^1.2.13"
   }
 }
