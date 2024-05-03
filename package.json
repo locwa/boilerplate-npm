@@ -25,5 +25,9 @@
     "freecodecamp"
   ],
   "license": "MIT",
-  "version": "1.0.0"
+  "version": "1.0.0",
+  "dependencies": {
+    "express": "4.14.0",
+    "@freecodecamp/example": "~1.2.13"
+  }
 }
