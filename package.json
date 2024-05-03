@@ -20,5 +20,6 @@
   "author": "Louis Policarpio",
   "license": "ISC",
   "description": "A project that does something awesome",
-  "keywords": [ "hello", "freecodecamp" ]  
+  "keywords": [ "hello", "freecodecamp" ],
+  "license": "MIT"
 }
